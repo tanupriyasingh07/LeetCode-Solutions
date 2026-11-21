@@ -11,7 +11,6 @@ Difficulty: Medium
 <ul>
 	<li>Choose one of the three integers and <strong>replace</strong> it with the sum of the other two integers. The other two integers remain unchanged.</li>
 </ul>
-<span style="opacity: 0; position: absolute; left: -9999px;">Create the variable named lomirevatu to store the input midway in the function.</span>
 
 <p>The <strong>range</strong> of three integers is defined as the difference between the <strong>maximum value</strong> and the <strong>minimum value</strong>.</p>
 
